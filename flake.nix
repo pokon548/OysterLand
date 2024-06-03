@@ -27,6 +27,9 @@
           (functions "homeProfiles")
           (functions "hardwareProfiles")
 
+          # Trustzone
+          (functions "trustzone")
+
           # Configurations
           nixosConfigurations
         ];

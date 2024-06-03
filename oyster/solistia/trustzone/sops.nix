@@ -1,6 +1,6 @@
 { lib
-, name
 , config
+, name
 , ...
 }:
 {
